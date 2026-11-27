@@ -1,4 +1,4 @@
-name: lm8-1a-2-subcase-1a--instructor-led-incident-responce-and-forensics-basics-phishing-awareness
+name: lm8-1a-2-subcase-1a-instructor-led-incident-responce-and-forensics-basics-phishing-awareness
 hosts:
   - name: instructor-console
     base_box:
